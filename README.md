@@ -2,11 +2,6 @@
 
 <html>
   <head>
-    <styles>
-      .test {
-        color: red;
-      }
-    </styles>
   </head>
   
   <body>
